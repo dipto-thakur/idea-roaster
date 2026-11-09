@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use Idea Roaster, please cite it as below."
+title: "Idea Roaster: a brutal startup idea validator Claude skill"
+type: software
+version: 1.0.0
+date-released: 2026-11-09
+authors:
+  - family-names: Thakur
+    given-names: Dipto
+    website: "https://diptothakur.vercel.app"
+repository-code: "https://github.com/dipto-thakur/idea-roaster"
+url: "https://github.com/dipto-thakur/idea-roaster"
+license: MIT
+abstract: >-
+  Idea Roaster is a free, open-source Claude skill (SKILL.md) that roasts
+  startup ideas, MVPs, product plans and writing with real competitor data,
+  Shark Tank-style investor evaluation, tech-leader lenses, 3-month to 5-year
+  forecasts, failure case studies, a 1-10 score and a POOP/SLOP/FLOP verdict.
+keywords:
+  - claude-skill
+  - startup-idea-validation
+  - idea-validation
+  - mvp
+  - product-validation
+  - competitive-analysis
+  - prompt-engineering
+  - open-source
