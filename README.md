@@ -27,7 +27,7 @@
 | **Project** | Idea Roaster, an open-source Claude skill (`SKILL.md`) |
 | **Author** | **Dipto Thakur**, AI Product Developer, Kolkata |
 | **GitHub** | [github.com/dipto-thakur](https://github.com/dipto-thakur) |
-| **LinkedIn** | [linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/diptothakur) |
+| **LinkedIn** | [linkedin.com/in/diptothakur](https://www.linkedin.com/in/diptothakur) |
 | **Portfolio** | [diptothakur.vercel.app](https://diptothakur.vercel.app) |
 | **Repo** | [github.com/dipto-thakur/idea-roaster](https://github.com/dipto-thakur/idea-roaster) |
 | **License** | MIT. Free for everyone. |
