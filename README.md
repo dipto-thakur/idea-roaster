@@ -2,7 +2,7 @@
 
 <img src="public/preview.png" alt="Idea Roaster: brutal startup idea validator, an open-source Claude skill" width="100%" />
 
-# 🔥 Idea Roaster
+# Idea Roaster
 
 ### Brutal startup idea validator for Claude. Roast your idea before the market does.
 
@@ -20,20 +20,6 @@
 
 ---
 
-## 👤 About
-
-| | |
-|---|---|
-| **Project** | Idea Roaster, an open-source Claude skill (`SKILL.md`) |
-| **Author** | **Dipto Thakur**, AI Product Developer, Kolkata |
-| **GitHub** | [github.com/dipto-thakur](https://github.com/dipto-thakur) |
-| **LinkedIn** | [linkedin.com/in/diptothakur](https://www.linkedin.com/in/diptothakur) |
-| **Portfolio** | [diptothakur.vercel.app](https://diptothakur.vercel.app) |
-| **Repo** | [github.com/dipto-thakur/idea-roaster](https://github.com/dipto-thakur/idea-roaster) |
-| **License** | MIT. Free for everyone. |
-
----
-
 ## ❓ What is Idea Roaster?
 
 **Idea Roaster is a Claude skill that tries to kill your idea before the market does.** Give it a startup idea, SaaS, MVP, development plan, marketing strategy, article or any writing. It researches the web, then returns a ranked roast, real competitors, demand checks, a Shark Tank-style investor verdict, tech-leader lenses, forecasts, failed-startup case studies, a score and a category: **POOP, SLOP, FLOP, DUD, CLONE, VITAMIN or LEGIT**.
@@ -41,22 +27,6 @@
 Most AI tools are people-pleasers. This one is built to disagree. It never suggests workarounds, pivots or feature padding. Its only question: **does this idea deserve to exist?**
 
 ---
-
-## 🎬 Demo
-
-<div align="center">
-
-<img src="public/demo.gif" alt="Idea Roaster demo: roasting a startup idea inside Claude" width="85%" />
-
-</div>
-
-| Verdict + roast by severity | Competitors + demand | Final scorecard |
-|---|---|---|
-| <img src="public/screenshots/roast-verdict.png" alt="Idea Roaster verdict and ranked flaws for a startup idea" /> | <img src="public/screenshots/roast-competitors.png" alt="Idea Roaster competitor table with real traction data" /> | <img src="public/screenshots/roast-scorecard.png" alt="Idea Roaster final scorecard with brutality score and category" /> |
-
-| Shark Tank panel | Tech-leader lenses | Forecast + graveyard |
-|---|---|---|
-| <img src="public/screenshots/roast-shark-tank.png" alt="Shark Tank style investor evaluation of a startup idea" /> | <img src="public/screenshots/roast-lenses.png" alt="Musk, Jobs, Bezos and Zuckerberg lens analysis of a startup idea" /> | <img src="public/screenshots/roast-forecast.png" alt="3 month, 6 month, 1 year and 5 year startup idea forecast" /> |
 
 ### Example output (excerpt)
 
