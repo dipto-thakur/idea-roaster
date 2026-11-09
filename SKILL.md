@@ -19,7 +19,7 @@ metadata:
 | **Output** | Roast by severity → competitors → demand → Shark Tank → stock check → tech-leader lenses → 3m/6m/1y/5y forecast → graveyard → score + category + kill/build |
 | **Author** | **Dipto Thakur**, AI Product Developer, Kolkata |
 | **GitHub** | [github.com/dipto-thakur](https://github.com/dipto-thakur) · skill repo: [idea-roaster](https://github.com/dipto-thakur/idea-roaster) |
-| **LinkedIn** | [linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/diptothakur) |
+| **LinkedIn** | [linkedin.com/in/diptothakur](https://www.linkedin.com/in/diptothakur) |
 | **Portfolio** | [diptothakur.vercel.app](https://diptothakur.vercel.app) |
 | **Contribute** | Fork it, sharpen it, open a PR. Roast the roaster. |
 
