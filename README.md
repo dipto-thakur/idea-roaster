@@ -9,10 +9,10 @@
 **A free, open-source Claude skill that stress-tests startup ideas, MVPs, product plans and writing with real competitor data, investor-style questions, 3-month to 5-year forecasts, and a 1–10 score. No sugarcoating. No workarounds.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
+[![Security: A — Skills Directory](https://www.skillsdirectory.com/api/skills/dipto-thakur-idea-roaster/badge)](https://www.skillsdirectory.com/skills/dipto-thakur-idea-roaster)
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange.svg)](https://github.com/dipto-thakur/idea-roaster)
 [![Claude Code](https://img.shields.io/badge/Works%20with-Claude%20Code-black.svg)](https://github.com/dipto-thakur/idea-roaster)
 [![Stars](https://img.shields.io/github/stars/dipto-thakur/idea-roaster?style=flat&color=yellow)](https://github.com/dipto-thakur/idea-roaster/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/dipto-thakur/idea-roaster)](https://github.com/dipto-thakur/idea-roaster/commits/main)
 
 [**Install**](#-install) · [**Demo**](#-demo) · [**What you get**](#-what-you-get) · [**FAQ**](#-faq) · [**Contribute**](#-contribute)
 
